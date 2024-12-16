@@ -1,0 +1,45 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "employees": [
+    {
+      "firstName": "Srimanreddy",
+      "lastName": "Singireddy",
+      "email": "srimanreddysingireddy1327@gmail.com",
+      "dob": "2001-11-13",
+      "gender": "male",
+      "education": "Graduate",
+      "company": "ssr",
+      "experience": 3,
+      "salary": 12,
+      "id": 1
+    },
+    {
+      "firstName": "reshwanth",
+      "lastName": "Singireddy",
+      "email": "resh@gmail.com",
+      "dob": "2003-06-04",
+      "gender": "male",
+      "education": "Graduate",
+      "company": "ssr solutions",
+      "experience": 1,
+      "salary": 1,
+      "id": "208d"
+    }
+  ]
+}
